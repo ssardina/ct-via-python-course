@@ -1,2 +1,2 @@
-# ct-via-python-course
-Computational Thinking via Python Coding Course
+# Computational Thinking via Python Coding Course
+
