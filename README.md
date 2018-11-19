@@ -24,6 +24,6 @@ There are some good tutorials and reference links on Python. We have sometimes t
 
 
 
-# LICENSE
+## LICENSE
 
 This course is released under the terms of the Simplified BSD License. See [LICENSE](LICENSE) file.
