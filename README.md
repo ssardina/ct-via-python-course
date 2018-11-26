@@ -35,6 +35,9 @@ There are some good tutorials and reference links on Python. We have sometimes t
 * [Interactive Python tutorial](https://www.learnpython.org/) at LearnPython.org.
 * [Python Tutorial](https://www.w3schools.com/python/python_intro.asp) from w3schools. Tutorial around examples.
 
+There are other great resources to teach Computational Thinking and Algorithms:
+
+* [CS Unplugged](https://csunplugged.org/en/) is "a collection of free teaching material that teaches Computer Science through engaging games and puzzles that use cards, string, crayons and lots of running around."
 
 
 ## LICENSE
