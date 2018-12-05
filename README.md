@@ -6,7 +6,7 @@
 
 This is a set of Python [Jupyter](http://jupyter.org/) notebooks to introduce students to the wonderful universe of computational thinking, algorithms, and programming! 
 
-It is currently under active development by Sebastian Sardina (RMIT University) and Natalie M. Hammond (math teachier at Bayside P12 College).
+It is currently under active development by Sebastian Sardina (RMIT University) and Natalie M. Hammond (math teacher at Bayside P12 College). The objective is to realize the algoritmic part of the VIC Curriculum for Year 7 to 10 under [Digital Technologies](http://victoriancurriculum.vcaa.vic.edu.au/technologies/digital-technologies/curriculum/f-10#level=7-8) and [Mathematics](http://victoriancurriculum.vcaa.vic.edu.au/mathematics/curriculum/f-10) in a fun, practical, and simple & resource-low manner. See a [pack of slides](https://docs.google.com/presentation/d/16k5Id7BF2KfSlp89DdS2oYnN89QspUGBs84CRQ_-7Eo/edit#slide=id.p) surveying that aspect of the the VIC Curriculum.
 
 The current set of notebooks available are:
 
