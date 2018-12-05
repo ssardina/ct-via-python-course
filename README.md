@@ -4,7 +4,11 @@
 
 ## Overview
 
-In this set of Python [Jupyter](http://jupyter.org/) notebooks we will introduce you to the wonderful universe of computational thinking, algorithms, and programming! 
+This is a set of Python [Jupyter](http://jupyter.org/) notebooks to introduce students to the wonderful universe of computational thinking, algorithms, and programming! 
+
+It is currently under active development by Sebastian Sardina (RMIT University) and Natalie M. Hammond (math teachier at Bayside P12 College).
+
+The current set of notebooks available are:
 
 1. The first step is to build algorithms to control a little robot who needs to turn on lights. With this you are already solving problems computationally!
 2. We will then write or first program, the "Hello World!" program, and do some simple math calculations.
